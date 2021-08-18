@@ -88,8 +88,8 @@ h5{
  text-align: center;   
 }
 
-.main-text{
-	color:white;
+.main-text-h1{
+	color: white;
 	}
 
 
@@ -99,8 +99,8 @@ h5{
 
 @media only screen and (min-width: 840px) {
 
-  .main-text{
-  color:#818b9b !important;
+  .main-text-h1{
+  color:#002d72 !important
   }
   
   
