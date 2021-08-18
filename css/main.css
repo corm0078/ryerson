@@ -319,13 +319,10 @@ h3 a{
 
 /* desktop intro/image */
 
-.main-text h1{
+.main-text{
 	color:white;
 	}
 
-.main-text h3{
-	color:white;
-		}
 
 .explore{
 	color: white;
@@ -334,13 +331,10 @@ h3 a{
 
 @media only screen and (min-width: 840px) {
 
-.main-text h1{
+.main-text{
 color:#818b9b !important;
 }
 
-.main-text h3{
-	color: #002d72 !important;
-}
 
 .explore{
 	color: #002d72 !important;
