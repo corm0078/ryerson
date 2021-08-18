@@ -73,7 +73,7 @@ nav ul{
 }
 
 .mobile-nav li a:hover{
-	color: #ffdc00;
+	color: #004c9b;
 }
 
 .desktop-nav{
@@ -136,7 +136,7 @@ nav ul{
 }
 
 .social li a:hover i{
-	color: #ffdc00;
+	color: #004c9b;
 }
 
 
@@ -269,7 +269,7 @@ border: none;
 h3 a{
 
 	text-decoration: none;
-	color: #ffdc00;
+	color: #004c9b;
 }
 
 .chat h3 a{
@@ -277,7 +277,7 @@ h3 a{
 }
 
 .chat h3 a:hover {
-	color: #ffdc00;
+	color: #004c9b;
 }
 
 
@@ -411,7 +411,7 @@ h3 a{
 
 .project-text:after {
 	content:"";
-	border-top: 1px solid #ffdc00;
+	border-top: 1px solid #004c9b;
 	padding-top: 40px;
 	display: block;
 	width: 100%;
@@ -683,7 +683,7 @@ h3 a{
 }
 
 .chat .social-footer li a:hover i{
-	color: #ffdc00;
+	color: #004c9b;
 }
 
 @media only screen and (min-width: 440px){
@@ -867,7 +867,7 @@ h3 a{
 
 .menu--adsila .menu__item:nth-child(odd) .menu__item-name::before,
 .menu--adsila .menu__item:nth-child(odd) .menu__item-label::before {
-	background:#a5b0e3;
+	background:#004c9b;
 }
 
 
@@ -875,7 +875,7 @@ h3 a{
 
 .menu--adsila .menu__item:nth-child(odd):hover,
 .menu--adsila .menu__item:nth-child(odd):focus {
-	color: #a5b0e3;
+	color: #004c9b;
 }
 
 .menu--adsila .menu__item:hover .menu__item-name::before,
