@@ -623,7 +623,7 @@ h3 a{
 }
     
 .chat-option2{
-   background-color:#000000;
+   background-color: #002d72;
    text-align: center;
    color: white;
    display: flex;
@@ -634,11 +634,11 @@ h3 a{
 }
 
 .chat-option2 p{
-    color: #ffdc00;
+    color: white;
 }
 
 .chat-option2 h2{
-    color: #ffdc00;
+    color: white;
 }
 
 .chat h2{
